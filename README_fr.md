@@ -4,6 +4,14 @@ Dossier GitHub Etudiants IAI
 J'ambitionne d'aider des gens à apprendre comment utiliser cet outil très intéressant.
 
 ### Qui ?
+
+#### Identité
+
+**Koffi Sani**  
+*African Optimist Citizen | IT Engineer | Budding Entrepreneur | On the lookout of ideas that'll change Africa*
+
+#### Profils sociaux
+
 :octocat: [@koffisani](https://github.com/koffisani)
 
 ![alt Twitter bird](https://github.com/koffisani/github-rep-for-iai/blob/master/twitter.png) [@koffisani](https://twitter.com/koffisani)
