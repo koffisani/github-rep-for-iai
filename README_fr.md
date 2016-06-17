@@ -6,7 +6,14 @@ J'ambitionne d'aider des gens à apprendre comment utiliser cet outil très int�
 ### Qui ?
 :octocat: [@koffisani](https://github.com/koffisani)
 
+![alt Twitter bird](https://github.com/koffisani/github-rep-for-iai/blob/master/twitter.png) [@koffisani](https://twitter.com/koffisani)
+
+![alt Facebook](https://github.com/koffisani/github-rep-for-iai/blob/master/facebook-official.png) [@koffisani](https://facebook.com/koffisani)
+
+![alt Twitter bird](https://github.com/koffisani/github-rep-for-iai/blob/master/linkedin.png) [@koffisani](https://linkedin.com/in/koffisani)
+
 :email: [koffisani@gmail.com](mailto:koffisani@gmail.com)
+
 
 ### Commencer 
 - Aller sur [github.com](https://github.com)
