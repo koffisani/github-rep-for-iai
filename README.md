@@ -22,7 +22,7 @@ I just want to help people learn how to use this so useful tool.
 
 ![alt Medium](https://github.com/koffisani/github-rep-for-iai/blob/master/medium.png) [@koffisani](https://medium.com/@koffisani)
 
-![alt Twitter bird](https://github.com/koffisani/github-rep-for-iai/blob/master/twitter.png) [+koffisani](https://google.com/+koffisani)
+![alt G+](https://github.com/koffisani/github-rep-for-iai/blob/master/google-plus.png) [+koffisani](https://google.com/+koffisani)
 
 ![alt Web](https://github.com/koffisani/github-rep-for-iai/blob/master/globe.png) [http://koffisani.ga](http://koffisani.ga)
 
