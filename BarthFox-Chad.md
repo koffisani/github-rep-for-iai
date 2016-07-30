@@ -1,8 +1,8 @@
 #Identity
-https://github.com/BarthFox  
+:octocat: [BarthFox](https://github.com/BarthFox)
 
 #Behance Profile
-http://www.behance.net/behance (My Creative Cloud Commons)
+[My Creative Cloud Commons](http://www.behance.net/behance)
 
 #Conutry
 Chad
@@ -21,5 +21,4 @@ http://nticsert.blogspot.com
 
 #Facebook Page
 
-http://www.facebook.com/nticsert
-
+![alt Facebook](https://github.com/koffisani/github-rep-for-iai/blob/master/img/facebook-official.png) [@nticsert](https://www.facebook.com/nticsert)
