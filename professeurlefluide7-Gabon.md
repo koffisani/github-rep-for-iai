@@ -3,7 +3,7 @@
 
 ALLOGO OVONO Jean Pierre
 
-![alt LinkedIn](https://github.com/koffisani/github-rep-for-iai/blob/master/img/linkedin.png) [@professeurlefluide7](htts://linkedin/in/professeurlefluide7)
+![alt LinkedIn](https://github.com/koffisani/github-rep-for-iai/blob/master/img/linkedin.png) [@professeurlefluide7](htts://linkedin.com/in/professeurlefluide7)
 
 # Pays
 GABON
