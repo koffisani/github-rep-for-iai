@@ -2,7 +2,7 @@
 @mauricesewavi
 maurice
 maurice.sewavi
-[htts://linkedin.com/in/maurice](linkedin)
+[htts://facebook.com/in/maurice](linkedin)
 # Pays
 Togo
 # Ville
