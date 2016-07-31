@@ -1,5 +1,5 @@
 # identité
-[https://facebook.com/maimouna.boubacardjibo]
+![alt Facebook](https://github.com/koffisani/github-rep-for-iai/blob/master/img/facebook-official.png) [maimouna.boubacardjibo](https://facebook.com/maimouna.boubacardjibo)
 # Pays
 ## Niger
 # Ville
@@ -8,6 +8,7 @@
 ## parc W
 # Rythmes musiquaux
 ## toubal
-@maimounatou
-boubacardjibomaimouna@yahoo.fr
+:octocat: [@maimounatou](https://github.com/maimounatou)
+
+:email: boubacardjibomaimouna@yahoo.fr
 
