@@ -28,7 +28,7 @@ I just want to help people learn how to use this so useful tool.
 
 :email: [koffisani@gmail.com](mailto:koffisani@gmail.com)
 
-### To start 
+### To start
 - go to [github.com](https://github.com)
 
 - Sign up for a [new account](https://github.com/join)
@@ -37,4 +37,6 @@ I just want to help people learn how to use this so useful tool.
 
 
 
-![GitHub octocat](https://github.com/koffisani/github-rep-for-iai/blob/master/img/Octocat.jpg "octocat") 
+![GitHub octocat](https://github.com/koffisani/github-rep-for-iai/blob/master/img/Octocat.jpg "octocat")
+
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/koffisani/github-rep-for-iai/pitchme?grs=github&t=white)
