@@ -1,6 +1,7 @@
 ![alt git](https://github.com/koffisani/github-rep-for-iai/blob/pitchme/img/git.png)
 
 # GIT & GITHUB FOR IAI
+#VSLIDE
 Par
 
 **Koffi SANI**
@@ -9,12 +10,15 @@ African Optimist Citizen | Software Engineer | Budding Entrepreneur | On the loo
 
 **@koffisani**
 
+#HSLIDE
 
 # Git ?
 
 - [x] Gestionnaire de version de code
 
 - [x] Par Linus Torvalds, créateur de Linux.
+
+#HSLIDE
 
 ## Motivation
 
