@@ -22,6 +22,6 @@ African Optimist Citizen | Software Engineer | Budding Entrepreneur | On the loo
 
 ## Motivation
 
-![partage](img/partage.png) | ![sans-perte](img/sans-perte.png)
+![partage](img/partage.png) | ![sansperte](img/sans-perte.png)
 ------ | ------
 Partage de code via email ou clé USB | Sans perte de données lorsqu’on revient en arrière
