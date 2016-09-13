@@ -29,7 +29,7 @@ J'ambitionne d'aider des gens à apprendre comment utiliser cet outil très int�
 :email: [koffisani@gmail.com](mailto:koffisani@gmail.com)
 
 
-### Commencer 
+### Commencer
 - Aller sur [github.com](https://github.com)
 
 - Créer un [nouveau compte](https://github.com/join)
@@ -38,4 +38,6 @@ J'ambitionne d'aider des gens à apprendre comment utiliser cet outil très int�
 
 
 
-![GitHub octocat](https://github.com/koffisani/github-rep-for-iai/blob/master/img/Octocat.jpg "octocat") 
+![GitHub octocat](https://github.com/koffisani/github-rep-for-iai/blob/master/img/Octocat.jpg "octocat")
+
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/koffisani/github-rep-for-iai/pitchme?grs=github&t=white)
