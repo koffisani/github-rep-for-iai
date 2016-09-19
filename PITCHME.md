@@ -22,6 +22,6 @@ African Optimist Citizen | Software Engineer | Budding Entrepreneur | On the loo
 
 ## Motivation
 
-![partage](https://github.com/koffisani/github-rep-for-iai/blob/pitchme/img/partage.png) | ![sans-perte](https://github.com/koffisani/github-rep-for-iai/blob/pitchme/img/sans-perte.png)
+![partage](https://github.com/koffisani/github-rep-for-iai/blob/pitchme/img/partage.png) | ![sans-perte](https://github.com/koffisani/github-rep-for-iai/blob/pitchme/img/sansperte.png)
 ------ | ------
 Partage de code via email ou clé USB | Sans perte de données lorsqu’on revient en arrière
