@@ -1,10 +1,10 @@
 # Identite
-:octocat:[bangabonfils] (https://githubcom/bangabonfils
+:octocat:[bangabonfils] (https://github.com/bangabonfils)
 
 #pays
 Tchad
 #ville
 moundou
 #Rythms mucicaux
--rap
--salsa
+- rap
+- salsa
