@@ -24,7 +24,7 @@ J'ambitionne d'aider des gens à apprendre comment utiliser cet outil très int�
 
 ![alt G+](https://github.com/koffisani/github-rep-for-iai/blob/master/img/google-plus.png) [+koffisani](https://google.com/+koffisani)
 
-![alt Web](https://github.com/koffisani/github-rep-for-iai/blob/master/img/globe.png) [http://koffisani.ga](http://koffisani.ga)
+![alt Web](https://github.com/koffisani/github-rep-for-iai/blob/master/img/globe.png) [https://www.koffisani.ga](https://www.koffisani.ga)
 
 :email: [koffisani@gmail.com](mailto:koffisani@gmail.com)
 
